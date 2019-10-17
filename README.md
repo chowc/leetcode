@@ -15,3 +15,4 @@ Easy：:blush:，Medium：:confused:，Hard：:pensive:
 - [287 Find the Duplicate Number](./287.md) :confused:
 - [239 Sliding Window Maximum](./239.md) :pensive:
 - [114 Flatten Binary Tree to Linked List](./114.md) :confused:
+- [236 Lowest Common Ancestor of a Binary Tree](./236.md) :confused:
